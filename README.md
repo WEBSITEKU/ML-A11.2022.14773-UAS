@@ -1,6 +1,4 @@
 # Prediksi penyakit jantung menggunakan Logistic Regression
-## Nama : David Naufal Zaki
-## NIM  : A11.2022.14773
 ### Permasalahan dan Ringkasan project
 Penyakit jantung adalah salah satu penyebab utama kematian di seluruh dunia. Diagnosis dini dan akurat sangat penting untuk penanganan yang efektif. Namun, diagnosis manual seringkali memakan waktu dan dapat berisiko terhadap kesalahan. Proyek ini bertujuan untuk membangun model machine learning yang dapat memprediksi apakah seorang pasien menderita penyakit jantung berdasarkan berbagai fitur seperti usia, jenis kelamin, tekanan darah, kolesterol, dan lain-lain. Model ini diharapkan dapat membantu dokter dalam mendiagnosis penyakit jantung dengan lebih cepat dan akurat.
 ### Tujuan yang akan dicapai:
